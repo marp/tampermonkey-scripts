@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old Wikipedia Layout Fixed
 // @namespace    http://greasyfork.org/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Redirects Wikipedia to use the good (pre-2023) skin. Fork of https://greasyfork.org/en/scripts/458494-old-wikipedia-layout with bugfixes.
 // @author       Marp
 // @match        *://*.wikipedia.org/*
